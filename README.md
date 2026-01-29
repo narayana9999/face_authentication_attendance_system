@@ -125,7 +125,7 @@ An AI/ML-powered attendance management system using real-time face recognition w
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/face-attendance-system.git
+git clone https://github.com/narayana9999/face_authentication_attendance_system.git
 cd face-attendance-system
 ```
 
@@ -777,7 +777,7 @@ SOFTWARE.
 
 - M.Tech in AI/ML
 - Email: narayanjasthi@gmail.com
-- GitHub: [narayana](https://github.com/yourusername)
+- GitHub: [narayana](https://github.com/narayana9999)
 - LinkedIn: [narayana](https://www.linkedin.com/in/narayana9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
